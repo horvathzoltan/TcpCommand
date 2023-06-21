@@ -2,6 +2,8 @@
 
 #include <QElapsedTimer>
 
+// git ieszt 1
+
 Server::Server(QObject *parent) :
     QObject(parent)
 {
