@@ -2,7 +2,7 @@
 
 #include <QElapsedTimer>
 
-// git ieszt 22
+// git ieszt 23
 
 Server::Server(QObject *parent) :
     QObject(parent)
